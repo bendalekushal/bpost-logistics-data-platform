@@ -41,3 +41,5 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+data_lake_raw/
+data/
